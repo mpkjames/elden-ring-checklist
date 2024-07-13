@@ -2,9 +2,9 @@
 
 return [
     'database' => [
-        'host' => '',
+        'host' => 'localhost',
         'port' => 3306,
-        'dbname' => '',
+        'dbname' => 'elden-ring-data',
         'charset' => 'utf8mb4'
     ]
 ];
